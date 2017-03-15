@@ -1,2 +1,4 @@
 # 排除提交类型.sh
-*.sh
+.idea
+node_modules
+push.sh
