@@ -1,4 +1,0 @@
-# 排除提交类型.sh
-.idea
-node_modules
-push.sh
