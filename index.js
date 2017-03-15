@@ -1,4 +1,4 @@
-var http = require('http');
+var superagent =  require('superagent-charset')(require('superagent'));
 var express = require('express');
 var app = express();
 var request = require('request');
