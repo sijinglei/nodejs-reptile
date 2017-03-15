@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-reptile",
+  "version": "1.0.0",
+  "description": "这个一个爬虫小程序",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sijinglei/nodejs-reptile.git"
+  },
+  "author": "sjl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sijinglei/nodejs-reptile/issues"
+  },
+  "homepage": "https://github.com/sijinglei/nodejs-reptile#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "fs": "^0.0.1-security",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {}
+}
